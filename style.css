@@ -1,0 +1,32 @@
+body{
+	padding:0;
+	margin:0;
+}
+.firstdivision{
+background:url("dhonipic.jpg");
+  height:20000px;
+  background-repeat:no-repeat;
+  background-position:cover;
+text-align:center;
+  color:white;
+}
+nav{
+	text-align:center;
+	padding:2em;
+	display:flex;
+}
+a{
+  font-size:50px;
+  text-decoration:none;
+  color:#fff;
+  padding:2em;
+}
+a:hover{
+  border-bottom:3px solid #fff;
+}
+.name{
+	margin-top:24px;
+	float:left;
+	text-align:bottom;
+	display:flex;
+}
